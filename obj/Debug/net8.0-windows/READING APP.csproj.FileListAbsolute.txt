@@ -1,0 +1,9 @@
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\READING APP_MarkupCompile.cache
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\READING APP.g.resources
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\READING APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\READING APP.AssemblyInfoInputs.cache
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\READING APP.AssemblyInfo.cs
+C:\Users\KairiMikhaelaBautist\source\repos\READING APP\READING APP\obj\Debug\net8.0-windows\READING APP.csproj.CoreCompileInputs.cache
